@@ -1,3 +1,4 @@
+#TO CALCULATE THE ELECTRICITY BILL GENERATED
 x=int(input("enter electricity unit used:"))
 bill=0
 if x<=100:
