@@ -2,7 +2,7 @@
 a = 256
 b = a
 
-print(f"Address of a: {id(a)}")
+print("Address of a:",id(a))
 print(f"Address of b: {id(b)}")
 
 # Bonus: Change one variable

@@ -9,4 +9,4 @@ elif b>a and b>c:
     largest=b
 else:
     largest=c
-print("%d is the largest" % largest)
+print("%d is the largest"% largest)

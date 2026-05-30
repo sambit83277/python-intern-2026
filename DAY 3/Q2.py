@@ -1,3 +1,4 @@
+#CHARACTER AND LARGEST
 x=input("enter string:")
 largest=0
 character='a'
@@ -9,5 +10,5 @@ for i in range(len(x)):
     if count>=largest:
         largest=count
         character=x[i]
-print("character:",charecter)
+print("character:",character)
 print("count:",largest)
